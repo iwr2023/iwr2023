@@ -15,26 +15,20 @@ omit_header_text: true
 <ol>
 1.2.1. By participating or intending to participate in a race conducted under these    		rules, each competitor and boat owner agrees to accept these rules.
 
-<ol>
 1.2.2. A support person by providing support agrees to accept these rules.
 
-<ol>
 1.2.3. Acceptance of the rules includes agreement
 <ol>
 a) to be governed by the rules;
 
-<ol><ol>
 b) to accept the penalties imposed and other action taken under the rules, 				subject to the appeal and review procedures provided in them, as the final determination of any matter arising under the rules;
 
-<ol><ol>
 c) with respect to any such determination, not to resort to any court of law or tribunal not provided for in the rules; and
 
-<ol><ol>
 d) by each competitor and boat owner to ensure that their support persons are aware of the rules.
-
-<ol>
+</ol>
 1.2.4. The Captain in charge of each boat shall ensure that all participants in the team are aware of their responsibilities under these rules.
-
+</ol>
 
 1.3. Every participant must act according to the convention of fair play and sportsmanship.
 
