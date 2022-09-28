@@ -125,7 +125,6 @@ b) The usage of water ballast in tanks not approved by the Race Committee result
 <ol>
 6.2.1. 100m Sprint
 
-<ol>
 6.2.2. 200m Sprint
 
 6.2.3. Slalom
