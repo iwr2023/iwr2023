@@ -317,7 +317,8 @@ a) Rule 7.7.9 applies between two boats at an obstruction except when the obstru
 b) A right-of-way boat may choose to pass an obstruction on either side.
 
 c) When boats are overlapped, the outside boat shall give the inside boat room between her and the obstruction, unless she has been unable to do so from the time the overlap began.
-</ol></ol>
+</ol>
+</ol>
 7.8. Secret Mission
 <ol>
 7.8.1. The race content will be kept secret until the competition starts.
@@ -367,7 +368,8 @@ a) Hearing of a representative of the protesting party.
 b) Hearing of a representative of the protested party.
 
 c) Hearing of witnesses.
-</ol></ol>
+</ol>
+</ol>
 8.5. Decisions
 <ol>
 8.5.1. Decisions on consequences from a protest are made in private by the Protest Committee.
