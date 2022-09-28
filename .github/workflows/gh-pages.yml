@@ -25,11 +25,6 @@ jobs:
 
       - name: Build
         run: hugo --minify
-
-      - name: Install SSH Client
-        uses: webfactory/ssh-agent@v0.5.4
-        with:
-          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
       - name: Deploy 🚀
         if: ${{ github.ref == 'refs/heads/main' }}
         uses: JamesIves/github-pages-deploy-action@v4
@@ -37,5 +32,5 @@ jobs:
           folder: ./public
           branch: main # The branch the action should deploy to.
           repository-name: iwr2023/iwr2023.github.io
-          target-folder: .
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
           ssh: true
