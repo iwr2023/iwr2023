@@ -32,7 +32,6 @@ jobs:
         with:
           folder: ./public
           ssh-key: ${{ secrets.DEPLOY_KEY }}
-          SSH: true
           BRANCH: main # The branch the action should deploy to.
           REPOSITORY_NAME: iwr2023/iwr2023.github.io
           TARGET_FOLDER: .
