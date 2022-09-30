@@ -1,0 +1,36 @@
+{{ $sourceImage := resources.Get "images/sponsors/Luerssen-1920w.webp" }}
+{{ $imageSizes := slice "320" "640" "960" "1280" "1920" "2560" }}
+<picture>
+    <source
+        type="image/webp"
+        srcset="
+        {{- range $imageSizes -}}
+        {{- if ge $sourceImage.Width . -}}
+        {{- $imageSize := int . -}}
+        {{- $scaledImage := $sourceImage.Resize (printf "%dx jpg" $imageSize) -}} 
+        {{- $scaledImage.RelPermalink }} {{ $scaledImage.Width }}w
+        {{- end -}}
+        {{- end -}}
+        "
+/>
+<source
+    type="image/jpeg"
+    type="image/webp"
+    srcset="
+    {{- range $imageSizes -}}
+    {{- if ge $sourceImage.Width . -}}
+    {{- $imageSize := int . -}}
+    {{- $scaledImage := $sourceImage.Resize (printf "%dx webp" $imageSize) -}} 
+    {{- $scaledImage.RelPermalink }} {{ $scaledImage.Width }}w
+    {{- end -}}
+    {{- end -}}
+    "
+/>
+
+<img
+    src="{{ $sourceImage.RelPermalink }}"
+    width="{{ $sourceImage.Width }}"
+    height="{{ $sourceImage.Height }}"
+    loading="lazy"
+/>
+</picture>

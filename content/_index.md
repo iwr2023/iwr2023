@@ -11,3 +11,4 @@ Welcome
 {{< figure src="/images/sponsors/AR_Logo_Final-1920w.webp" title="Steve Francia" width="320px" >}}
 {{< figure src="/images/sponsors/Logo_Fassmer_blau-1920w.webp" title="Steve Francia" width="320px" >}}
 {{<anmeldung>}}
+{{< sponsor-image >}}

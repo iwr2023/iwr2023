@@ -7,12 +7,14 @@ menu:
     - identifier: sponsors
       name: Sponsors
       weight: -110
-    - name: getting started
-      post: <span class='alert'>New!</span>
-      weight: -100
+    - identifier: iwr2023
+      name: IWR 2023
+      weight: -90
 params:
   mainSections:
     - posts
+  custom_css:
+    - custom.scss
 privacy:
   disqus:
     disable: true

@@ -1,0 +1,26 @@
+.iwr-dropdown{
+  &:hover ul.iwr-sub-menu{
+    display: block;
+  }
+  ul.iwr-sub-menu{
+    display: none;
+    position: absolute;
+    top: auto;
+    min-width: 160px;
+    max-width: 320px;
+    padding: 10px;
+    margin-left: -20px;
+    background: rgba(0,0,0,0.333);
+  }
+  ul.iwr-sub-menu li a {
+    color: #FFF;
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+  }
+  ul.iwr-sub-menu li a:hover,
+
+  ul.iwr-sub-menu li a:focus {
+    background: rgba(0,0,0,0.7);
+  }
+}
