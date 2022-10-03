@@ -9,7 +9,7 @@
           {{ .Title | default .Site.Title }}
         </h1>
         {{ if .IsHome }}
-          <iwr-asdf/>
+          <app-countdown class="fw1 f5 f3-l white-80 measure-wide-l center mt3" target-date="{{.Site.Params.countdownDate}}"></app-countdown>
         {{ else }}
           {{ with .Params.description }}
             <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">

@@ -15,6 +15,7 @@ params:
     - posts
   custom_css:
     - custom.scss
+  countdownDate: May 05 2023 15:37:25
 privacy:
   disqus:
     disable: true
