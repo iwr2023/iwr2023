@@ -23,7 +23,11 @@ jobs:
           hugo-version: "0.91.2"
           extended: true
       - name: Setup FFMPEG
-        uses: FedericoCarboni/setup-ffmpeg@v1
+        run: |
+          sudo apt update -y
+          sudo apt install ffmpeg -y
+          ffmpeg -version
+          ffmpeg -encoders
         id: setup-ffmpeg
       - name: Run Video Conversion
         run: ./convert_video.sh
