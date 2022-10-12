@@ -22,7 +22,11 @@ jobs:
         with:
           hugo-version: "0.91.2"
           extended: true
-
+      - name: Setup FFMPEG
+        uses: FedericoCarboni/setup-ffmpeg@v1
+        id: setup-ffmpeg
+      - name: Run Video Conversion
+        run: ./convert_video.sh
       - name: Build
         run: hugo --minify
       - name: Deploy 🚀
