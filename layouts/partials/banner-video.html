@@ -1,5 +1,11 @@
-{{ $sourceImage := resources.Get "video/test_video.mp4" }}
-<video width="100%" height="240" loop autoplay>
+{{ $sourceImage := resources.Get "video/banner_h264.mp4" }}
+<video width="100%" height="240" loop autoplay muted>
+  {{ $videoAv1 := resources.Get "video/banner_av1.mp4" }}
+  <source src="{{$videoAv1.RelPermalink}}" type='video/mp4; codecs="av01.0.04M.08"; profiles="isom,av01,iso2,mp41"'>
+  {{ $videoVP9 := resources.Get "video/banner_vp9.webm" }}
+  <source src="{{$videoVP9.RelPermalink}}" type="video/webm; codecs=vp9">
+  {{ $videoH265 := resources.Get "video/banner_h265.mp4" }}
+  <source src="{{$videoH265.RelPermalink}}" type="video/mp4; codecs=hevc">
     <source src="{{$sourceImage.RelPermalink}}" type="video/mp4">
   Your browser does not support the video tag.
   </video>
