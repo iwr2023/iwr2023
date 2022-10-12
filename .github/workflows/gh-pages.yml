@@ -23,11 +23,7 @@ jobs:
           hugo-version: "0.91.2"
           extended: true
       - name: Setup FFMPEG
-        run: |
-          sudo apt update -y
-          sudo apt install ffmpeg -y
-          ffmpeg -version
-          ffmpeg -encoders
+        uses: docker://jrottenberg/ffmpeg:4.1
         id: setup-ffmpeg
       - name: Run Video Conversion
         run: ./convert_video.sh
