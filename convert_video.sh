@@ -1,3 +1,4 @@
+#!/bin/sh
 # H264
 ffmpeg -y -i ./assets/video/banner_source.mp4 -c:v libx264 -crf 23 -pix_fmt yuv420p -color_primaries 1 -color_trc 1 -colorspace 1 -movflags +faststart -an ./assets/video/banner_h264.mp4
 # H265
