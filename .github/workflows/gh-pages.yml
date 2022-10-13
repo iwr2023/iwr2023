@@ -23,8 +23,9 @@ jobs:
           hugo-version: "0.91.2"
           extended: true
       - name: Setup FFMPEG
-        uses: docker://jrottenberg/ffmpeg:4.1
-        id: setup-ffmpeg
+        run: |
+          docker build -t convertbanner -f banner.Dockerfile .
+          docker run convertbanner
       - name: Run Video Conversion
         run: ./convert_video.sh
       - name: Build
