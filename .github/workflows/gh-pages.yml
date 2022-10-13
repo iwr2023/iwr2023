@@ -23,7 +23,7 @@ jobs:
           hugo-version: "0.91.2"
           extended: true
       - name: Setup FFMPEG
-        uses: docker://jrottenberg/ffmpeg:4
+        uses: docker://jrottenberg/ffmpeg:4.1
         with:
           entrypoint: ./convert_video.sh
       - name: Run Video Conversion
