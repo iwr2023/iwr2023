@@ -6,7 +6,7 @@ menu:
   main:
     - identifier: sponsors
       name: Sponsors
-      weight: -110
+      weight: -50
     - identifier: iwr2023
       name: IWR 2023
       weight: -90

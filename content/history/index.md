@@ -2,10 +2,14 @@
 title: "History"
 date: 2022-09-27T08:18:06+02:00
 draft: false
-omit_header_text: true
-description: History
+omit_header_text: false
+description: History of IWR
 type: page
-menu: main
+menu:
+  main:
+    identifier: History
+    name: History
+    weight: -20
 ---
 
 # Welcome to StackEdit!
