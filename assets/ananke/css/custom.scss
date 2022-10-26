@@ -1,8 +1,9 @@
-.iwr-dropdown{
-  &:hover ul.iwr-sub-menu{
+.iwr-dropdown {
+  &:hover ul.iwr-sub-menu {
     display: block;
   }
-  ul.iwr-sub-menu{
+
+  ul.iwr-sub-menu {
     display: none;
     position: absolute;
     top: auto;
@@ -10,17 +11,47 @@
     max-width: 320px;
     padding: 10px;
     margin-left: -20px;
-    background: rgba(0,0,0,0.333);
+    background: rgba(0, 0, 0, 0.333);
   }
+
   ul.iwr-sub-menu li a {
     color: #FFF;
     display: block;
     text-decoration: none;
     padding: 8px;
   }
+
   ul.iwr-sub-menu li a:hover,
 
   ul.iwr-sub-menu li a:focus {
-    background: rgba(0,0,0,0.7);
+    background: rgba(0, 0, 0, 0.7);
+  }
+}
+
+div.sponsor-banner {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  > picture.sponsor-banner {
+    /*
+    flex: 1 1 100%;
+  
+    @media (min-width: 480px) {
+      width: 50%;
+    }
+  
+    @media (min-width: 960px) {
+      width: 33%;
+    }*/
+    aspect-ratio: 1/1;
+    >source,
+    img {
+      max-height:250px;
+      max-width:250px;
+      vertical-align: middle;
+    }
   }
 }

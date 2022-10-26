@@ -8,4 +8,4 @@ cascade:
 
 Welcome
 {{<anmeldung>}}
-{{< sponsor-image >}}
+{{< sponsor-banner>}}

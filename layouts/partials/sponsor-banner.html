@@ -1,0 +1,6 @@
+<div class="sponsor-banner">
+  {{ $sponsorIds := slice "sponsor_a" "sponsor_b" "sponsor_c" }}
+  {{- range $i, $sponsorId := $sponsorIds -}}
+    {{ partial "sponsor-image.html" $sponsorId }}
+  {{- end -}}
+</div>
