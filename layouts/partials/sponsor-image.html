@@ -18,7 +18,7 @@
         {{- range $i, $imageSize := $imageSizes -}}
             {{- if ge $sourceImage.Width $imageSize -}}
                 {{- $scaledImage := $sourceImage.Resize (printf "%sx webp" $imageSize) -}} 
-                {{- $scaledImage.RelPermalink }} {{ $scaledImage.Width }}w
+                {{- if $i }}, {{ end -}}{{- $scaledImage.RelPermalink }} {{ $scaledImage.Width }}w 
             {{- end -}}
         {{- end -}}
         "
