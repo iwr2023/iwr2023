@@ -1,4 +1,6 @@
 
-{{ $opts := dict "targetPath" "main.js" "minify" true "sourceMap" "inline" "format" "esm" }}
-{{ $script := resources.Get "/js/timer.js" | js.Build $opts }}
-<script type="text/javascript" src="{{ $script.RelPermalink }}" defer></script>
+{{ $css := resources.Get "ananke/css/countdown.scss" }}
+{{ $css_options := (dict "targetPath" "appcountdown.css" "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction) "includePaths" (slice "node_modules/myscss")) }}
+{{ $style := $css | resources.ToCSS $css_options | jsonify }}
+{{ $js := resources.Get "/js/timer.js" | resources.ExecuteAsTemplate "appcountdown.js" $style }}
+<script>{{ $js.Content | safeJS }}</script>

@@ -1,5 +1,6 @@
 {{ $sourceImage := resources.Get "video/banner_h264.mp4" }}
-<video width="100%" height="240" loop autoplay muted>
+{{ $coverImage := resources.Get "video/banner_cover.jpg" }}
+<video width="100%" height="240" loop autoplay muted poster="{{$coverImage.RelPermalink}}">
   {{/*
     {{ $videoAv1 := resources.Get "video/banner_av1.mp4"  | resources.Fingerprint}}
     <source src="{{$videoAv1.RelPermalink}}" type='video/mp4; codecs="av01.0.04M.08"; profiles="isom,av01,iso2,mp41"'>
