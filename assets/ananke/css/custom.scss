@@ -55,3 +55,12 @@ div.sponsor-banner {
     }
   }
 }
+
+
+div.table-box{
+  >table{
+    tr:nth-child(2n){
+      background-color: red;
+    }
+  }
+}
