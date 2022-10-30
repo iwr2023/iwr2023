@@ -5,6 +5,10 @@ draft: false
 omit_header_text: true
 ---
 
-Dies ist der erste Eintrag
+Disciplines
 
-(Sektionen mit Bild/Video und untertitel)
+## Sprint
+{{< resp-image src="images/regatta/sprint.jpg" >}}
+
+## Slalom
+{{< resp-image src="images/regatta/slalom.jpg" >}}
