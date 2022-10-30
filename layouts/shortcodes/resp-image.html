@@ -1,0 +1,44 @@
+{{ $data := newScratch }}
+{{ if .IsNamedParams }}
+    {{ $data.Set "img_file_path" (.Get "src") }}
+{{ else }}
+    {{ $data.Set "img_file_path" (.Get 0) }}
+{{ end }}
+{{ $sourceImage := resources.Get ($data.Get "img_file_path") }}
+{{ $imageSizes := slice "320" "640" "960" "1280" "1600" "1920" "2560" }}
+<picture class="resp-img">
+    <source type="image/webp"
+        srcset="
+        {{- range $i, $imageSize := $imageSizes -}}
+            {{- if ge $sourceImage.Width $imageSize -}}
+                {{- $scaledImage := $sourceImage.Resize (printf "%sx webp" $imageSize) -}} 
+                {{- if $i }}, {{ end -}}{{- $scaledImage.RelPermalink }} {{ $scaledImage.Width }}w 
+            {{- end -}}
+        {{- end -}}
+        "
+        sizes="(min-width: 480px) 50vw, (min-width: 960px) 33vw, 100vw"
+    />
+    <source type="image/png"
+        srcset="
+        {{- range $i, $imageSize := $imageSizes -}}
+            {{- if ge $sourceImage.Width $imageSize -}}
+                {{- $scaledImage := $sourceImage.Resize (printf "%sx png" $imageSize) -}} 
+                {{- if $i }}, {{ end -}}{{- $scaledImage.RelPermalink }} {{ $scaledImage.Width }}w 
+            {{- end -}}
+        {{- end -}}
+        "
+        sizes="(min-width: 480px) 50vw, (min-width: 960px) 33vw, 100vw"
+    />
+    <source
+        type="image/jpeg"
+        srcset="
+        {{- range $i, $imageSize := $imageSizes -}}
+            {{- if ge $sourceImage.Width $imageSize -}}
+                {{- $scaledImage := $sourceImage.Resize (printf "%sx jpg" $imageSize) -}} 
+                {{- if $i }}, {{ end -}}{{- $scaledImage.RelPermalink }} {{ $scaledImage.Width }}w 
+            {{- end -}}
+        {{- end -}}
+        "
+        sizes="(min-width: 480px) 50vw, (min-width: 960px) 33vw, 100vw"/>
+    <img src="{{ $sourceImage.RelPermalink }}" loading="lazy"/>
+</picture>
