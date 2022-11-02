@@ -18,3 +18,18 @@ Disciplines
 
 ## Slalom
 {{< resp-image src="images/regatta/slalom.jpg" >}}
+
+## Acceleration
+{{< resp-image src="images/regatta/acceleration.jpg" >}}
+
+## Long Distance
+{{< resp-image src="images/regatta/long_distance.jpg" >}}
+
+## Forward-Stop-Backward
+{{< resp-image src="images/regatta/forward_stop_backward.jpg" >}}
+
+## Bollard-pull
+{{< resp-image src="images/regatta/bollard_pull.jpg" >}}
+
+## Secret Mission
+{{< resp-image src="images/regatta/secret_mission.jpg" >}}
