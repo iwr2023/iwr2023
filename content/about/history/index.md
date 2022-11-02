@@ -7,9 +7,10 @@ description: History of IWR
 type: page
 menu:
   main:
-    identifier: History
+    identifier: about_history
+    parent: about
     name: History
-    weight: -20
+    weight: 1
 ---
 
 Wie die IWR Endstand:

@@ -3,29 +3,38 @@ title: "Rules"
 date: 2022-09-27T08:18:06+02:00
 draft: false
 omit_header_text: true
+menu:
+  main:
+    identifier: iwr2023_rules
+    parent: iwr2023
+    name: Rules
+    weight: 2
 ---
 
 # **International Waterbike Regatta 2023**
 
-****1. General****
+\***\*1. General\*\***
 
 1.1. All members of a team registered with the race organisers are considered as participants by these rules and have to act accordingly.
- 
+
 1.2. Acceptance of the rules
+
 <ol>
 1.2.1. By participating or intending to participate in a race conducted under these    		rules, each competitor and boat owner agrees to accept these rules.
 
 1.2.2. A support person by providing support agrees to accept these rules.
 
 1.2.3. Acceptance of the rules includes agreement
+
 <ol>
 a) to be governed by the rules;
 
-b) to accept the penalties imposed and other action taken under the rules, 				subject to the appeal and review procedures provided in them, as the final determination of any matter arising under the rules;
+b) to accept the penalties imposed and other action taken under the rules, subject to the appeal and review procedures provided in them, as the final determination of any matter arising under the rules;
 
 c) with respect to any such determination, not to resort to any court of law or tribunal not provided for in the rules; and
 
 d) by each competitor and boat owner to ensure that their support persons are aware of the rules.
+
 </ol>
 1.2.4. The Captain in charge of each boat shall ensure that all participants in the team are aware of their responsibilities under these rules.
 </ol>
@@ -39,6 +48,7 @@ d) by each competitor and boat owner to ensure that their support persons are aw
 1.6. It is prohibited to steal, borrow or rent anything of another participant, the IWR organisation or a third party member without written permission.
 
 1.7. The IWR is open for all waterbikes constructed and built by students. The crew have to be students as well.
+
 <ol>
 1.7.1. Alumni boats or boats operated by alumni are allowed to take part, but are excluded in the final ranking.
 </ol>
@@ -48,12 +58,14 @@ d) by each competitor and boat owner to ensure that their support persons are aw
 2.1. The English version is authoritative.
 
 2.2. Changes of the Official Rules or uncovered decisions:
+
 <ol>
 2.2.1. Decisions concerning changes of the rules are made by the Race Committee, consisting of four people.
 
 2.2.2. If the captains are highly dissatisfied about a decision made by the Race Committee the captains have the chance to discuss this decision at the next Captains Meeting.
 
 2.2.3. The organizers of the IWR 2019 have the final say in decisions concerning safety and timetable.
+
 </ol>
 2.3. Any changes of the Official Rules will be posted at the announcement board.
 
@@ -62,6 +74,7 @@ d) by each competitor and boat owner to ensure that their support persons are aw
 3.1. All participants are responsible for their behaviour on their own.
 
 3.2. Lifejackets have to be worn on board of any waterbike and at any time being on the water.
+
 <ol>
 3.2.1. This rule does not apply to boats moored to a pier.
 </ol>
@@ -100,28 +113,33 @@ d) by each competitor and boat owner to ensure that their support persons are aw
 5.7. The boats are only allowed to drive in approved water. The area of approved water will be announced by the organisers of the IWR. The fairway is to be omitted in all cases.
 
 5.8. Changes in the boat, which increase the performance of the boat in some disciplines:
+
 <ol>
 5.8.1. It must be possible to perform any change on the swimming boat in the water. A demonstration may be demanded by any Captain or the Race Committee.
 
 5.8.2. All parts (except tools) needed for these changes have to be carried on board during all races.
 
 5.8.3. Water Ballast
+
 <ol>
 a) All permanent or temporary water ballast tanks to be used in a race have to be approved by the Race Committee one week before the regatta.
 
 b) The usage of water ballast in tanks not approved by the Race Committee results in disqualification from all races in which the water ballast was used.
+
 </ol>
 5.8.4. If the boat is damaged it can be repaired ashore. The Race Committee has to be informed as fast as possible about necessary repairs. During these kinds of repairs, no changes improving the performance of the boat may be done.
 
 5.8.5. Major changes to the shape of the boat are not allowed.
 
 5.8.6. A boat breaking these rules will be disqualified from all races.
+
 </ol>
 **6. Races**
 
 6.1. The races start, when the Race Committee says so. In case of problems, these can be discussed in a Captains Meeting.
 
 6.2. The IWR generally consists of the following competitions:
+
 <ol>
 6.2.1. 100m Sprint
 
@@ -140,6 +158,7 @@ b) The usage of water ballast in tanks not approved by the Race Committee result
 6.2.8. Secret Mission
 
 6.2.9. Overall-Performance, will be calculated by the Low-Point-System out of the following disciplines:
+
 <ol>
 a) 100m Sprint
 
@@ -154,6 +173,7 @@ e) Acceleration (10m sprint)
 f) Bollard Pull
 
 g) Long Distance
+
 </ol>
 6.2.10. Disciplines may be altered or omitted by the Race Committee.
 </ol>
@@ -172,16 +192,19 @@ g) Long Distance
 6.9. If a boat gets damaged in a race it has the chance to re-race after a repair if it does not cross the finish line before. In case of damage the team has to give a signal and stop the boat. This rule does not apply during the Long-Distance-Race.
 
 6.10. Jump Start
+
 <ol>
 6.10.1. A boat jump starting in 100m, 200m, FSB, Slalom will not be evaluated in this run.
 
 6.10.2. A race with a jump starting boat is not abandoned. The time of the other boats will be evaluated.
 
 6.10.3. Except at the Long-Distance-Race, every jump started boat gets one chance to re-race that run. If the boat jump starts again it will be disqualified for that discipline.
+
 </ol>
 **7. Disciplines**
 
 7.1. 100m Sprint
+
 <ol>
 7.1.1. The 100m Sprint is a race over about 100m.
 
@@ -200,6 +223,7 @@ g) Long Distance
 7.1.8. The fastest boat of the A-Final wins the competition. Places 2 to 4 are ranked by the A-Final. Places 5 to 8 are ranked by the B-Final. Places 9 to 16 are ranked by the time of the Semi-Final-Runs. All others are ranked by the time of the Qualification-Run.
 
 7.1.9. In Semi-Finals and Finals it is not possible to re-race in case of a damage or technical problem.
+
 </ol>
 7.2. 200m Sprint
 <ol>
@@ -220,6 +244,7 @@ g) Long Distance
 7.2.8. The fastest boat of the A-Final wins the competition. Places 2 to 4 are ranked by the A-Final. Places 5 to 8 are ranked by the B-Final. Places 9 to 16 are ranked by the time of the Semi-Final-Runs. All others are ranked by the time of the Qualification-Run.
 
 7.2.9. In Semi-Finals and Finals it is not possible to re-race in case of a damage or technical problem.
+
 </ol>
 7.3. Slalom
 <ol>
@@ -244,6 +269,7 @@ g) Long Distance
 7.3.10. The fastest boat of the A-Final wins the competition. Places 2 to 4 are ranked by the A-Final. Places 5 to 8 are ranked by the B-Final. Places 9 to 16 are ranked by the time of the Semi-Final-Runs. All others are ranked by the time of the Qualification-Run.
 
 7.3.11. In Semi-Finals and Finals it is not possible to re-race in case of a damage or technical problem.
+
 </ol>
 7.4. Forward-Stop-Backward
 <ol>
@@ -268,12 +294,14 @@ g) Long Distance
 7.4.10. The fastest boat of the A-Final wins the competition. Places 2 to 4 are ranked by the A-Final. Places 5 to 8 are ranked by the B-Final. Places 9 to 16 are ranked by the time of the Semi-Final-Runs. All others are ranked by the time of the Qualification-Run.
 
 7.4.11. In Semi-Finals and Finals it is not possible to re-race in case of a damage or technical problem.
+
 </ol>
 7.5. Bollard Pull
 <ol>
 7.5.1. The feeding force will be measured over 30sec. The boat with the highest mean force over the 30sec will win this competition. The first peak will be excluded from the mean force.
 
 7.5.2. All boats have one attempt.
+
 </ol>
 7.6. Acceleration
 <ol>
@@ -286,6 +314,7 @@ g) Long Distance
 7.6.4. The ranking will be made out of the Acceleration time.
 
 7.6.5. All boats have three attempts and the best one counts.
+
 </ol>
 7.7. Long-Distance
 <ol>
@@ -304,19 +333,23 @@ g) Long Distance
 7.7.7. If two boats come into overlap, the boat leading at the time the overlap began has right of way, the other boat has to keep clear.
 
 7.7.8. Mark room
+
 <ol>
 a) Rule 7.7.8 applies between boats when they are required to leave a mark on the same side and at least one of them is less than 12m (approx. two boat lengths) away from the mark. However, it does not apply between a boat approaching a mark and one leaving it, or if the mark is a continuing obstruction, in which case rule 7.7.9 applies.
 
 b) When boats are overlapped the outside boat shall give the inside boat mark-room.
+
 </ol>
 
 7.7.9. Giving room at obstructions
+
 <ol>
 a) Rule 7.7.9 applies between two boats at an obstruction except when the obstruction is a mark the boats are required to leave on the same side, or when rule 7.7.7 applies between the boats and the obstruction is another boat overlapped with each of them.
 
 b) A right-of-way boat may choose to pass an obstruction on either side.
 
 c) When boats are overlapped, the outside boat shall give the inside boat room between her and the obstruction, unless she has been unable to do so from the time the overlap began.
+
 </ol>
 </ol>
 7.8. Secret Mission
@@ -326,26 +359,31 @@ c) When boats are overlapped, the outside boat shall give the inside boat room b
 **8. Protests and Hearings**
 
 8.1. Protest committee
+
 <ol>
 8.1.1. The committee consists of one member of the race committee and 4 additional members appointed by the organizers of the IWR.
 
 8.1.2. The committee is tasked with resolving all protests during the regatta.
+
 </ol>
 8.2. Right to protest
 <ol>
 8.2.1. The crew of a boat may protest another boat for a breach of rules 6) and 7) in races they competed in.
 
 8.2.2. The captain of a boat may
+
 <ol>
 a) protest another boat for a breach of rules 6) and 7) in races their boat competed in and
 
 b) may protest another boat for a breach of rule 5).
+
 </ol>
 8.2.3. The Race Committee and Protest Committee may protest any boat for a breach of any rules.
 
 8.2.4. All participants may protest a boat for a breach of rule 3).
 
 8.2.5. A person may only protest a boat for breaches of the rules he or she witnessed themselves.
+
 </ol>
 8.3. Protests
 <ol>
@@ -354,6 +392,7 @@ b) may protest another boat for a breach of rule 5).
 8.3.2. The protesting party has to inform the Race Committee immediately after the race.
 
 8.3.3. The protest has to be turned in to the Race Committee using the provided form not later that 1 hour after the end of the race concerned.
+
 </ol>
 8.4. Hearings
 <ol>
@@ -362,12 +401,14 @@ b) may protest another boat for a breach of rule 5).
 8.4.2. Additional hearings can be held at the discretion of the Protest Committee.
 
 8.4.3. Procedure of a hearing:
+
 <ol>
 a) Hearing of a representative of the protesting party.
 
 b) Hearing of a representative of the protested party.
 
 c) Hearing of witnesses.
+
 </ol>
 </ol>
 8.5. Decisions
@@ -379,6 +420,7 @@ c) Hearing of witnesses.
 8.5.3. The parties involved in a protest are to be immediately informed of a decision.
 
 8.5.4. All decisions will be announced at the next Captains Meeting.
+
 </ol>
 **9. Disclaimer**
 

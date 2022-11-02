@@ -6,10 +6,13 @@ menu:
   main:
     - identifier: sponsors
       name: Sponsors
-      weight: -50
+      weight: 30
     - identifier: iwr2023
       name: IWR 2023
-      weight: -90
+      weight: 20
+    - identifier: about
+      name: About
+      weight: 10
 params:
   mainSections:
     - posts
