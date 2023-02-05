@@ -21,6 +21,7 @@ these rules and have to act accordingly.
 
 1.2.1. By participating or intending to participate in a race conducted under these rules, each
 competitor and boat owner agrees to accept these rules.
+
 1.2.2. A support person by providing support agrees to accept these rules.
 
 1.2.3. Acceptance of the rules includes agreement
@@ -77,7 +78,8 @@ captains have the chance to discuss this decision at the next Captains Meeting.
 
 2.3. Any changes of the Official Rules will be posted at the announcement board.
 
-3. Safety
+3. Safety+
+
 3.1. All participants are responsible for their behaviour on their own.
 
 
@@ -99,6 +101,7 @@ board in every race.
 3.8. Any participant contravening these assignments or rules can be disqualified.
 
 4. Captains Meeting
+
 4.1. Only one person per boat is allowed to participate in the Captains Meeting.
 
 4.2. At the registration the teams will get one Captains-Meeting-Card for each boat. Every team
@@ -109,6 +112,7 @@ member who wants to participate in the Captains Meeting has to bring such a card
 4.4. There will be an announcement if the Captains Meeting must be called up additionally.
 
 5. Boats
+
 5.1. The captain of each boat is responsible for his boat concerning all intents and purposes.
 
 5.2. The boats must get their propelling force out of muscular strength. The main muscular strength
@@ -149,6 +153,7 @@ performance of the boat may be done.
 5.8.6. A boat breaking these rules will be disqualified from all races.
 
 *6. Races*
+
 6.1. The races start, when the Race Committee says so. In case of problems, these can be discussed in
 a Captains Meeting.
 
