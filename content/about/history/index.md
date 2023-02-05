@@ -12,15 +12,14 @@ menu:
     name: History
     weight: 1
 ---
+How the IWR came into being:
 
-Wie die IWR Endstand:
+It started one afternoon, sometime while drinking coffee during exam preparations in 1980. Whether beer also played a role is not handed down, but the result suggests it did. The spirit was hollowed out, and there was some joking around: why shouldn't theoretical flights of fancy be complemented by practical hand skills? The idea of the pedal boat regatta saw the light of day and was to be put into practice for the first time in the same year.
 
-Es begann an einem Nachmittag, irgendwann beim Kaffeetrinken während der Prüfungsvorbereitungen im Jahr 1980. Ob auch Bier eine Rolle spielte ist nicht überliefert,das Resultat deutet aber darauf hin. Der Geist war ausgehölt, und es wurde herumgeflachst: Warum sollten theoretische Höhenflüge nicht durch praktische Handfertigkeiten ergänzt werden? Die Idee der Tretbootregatta erblickte das Licht der Welt und sollte noch im gleichen Jahr ermals in die Tat umgesetzt werden.
+Four teams appeared thereupon in the autumn 1980 on the hunt for trophies on the Maschsee in Hanover: A team of the Kiel University of Applied Sciences, led by his Excellency Cornelius Martinen, a team of the HFL Berlin and two teams of the "Latte" from Hanover. The Kiel team traveled with a highly innovative, vertical pivoting wing that was treaded underfoot. The Berlin "Latte" had added a paddlewheel to a disused rowing boat. The "Latte" from Hanover competed once with empty plastic containers with attached tandem-better paddlewheel and secondly with two connected surfboards with mounted bicycle frame and a brass propeller driven by chain. Se. Herrlichkeit opened the spectacle before a very limited and incredulously astonished audience. Nevertheless, this event was reported in the "Honnoversche Allgemeine".
 
-Vier Teams erschienen daraufhin im Herbst 1980 auf der Jagd nach Trophäen auf dem Maschsee in Hannover: Ein Team der Fachhochschule Kiel, angeführt von seiner Exexzellenz Cornelius Martinen, ein Team der HFL Berlin und zwei Teams der "Latte" aus Hannover. Das Kieler Team reiste mit einem hoch inovativen, senkrecht stehenden Schwenkflügel, der mit Füßen getreten wurde, an. Die Berliner "Latte" hatte ein ausgedientes Ruderboot mit einem Schaufelrad verseehn. Die "Latte" aus Hannover trat einmal mit leeren Plastikbehältern mit aufgesetztem Tandem-Better-Schaufelrad und zum anderen mit zwei verbundenen Surfbrettern mit aufmontiertem Fahrradgestell und einem über Kette angetriebenen Messingpropeller an. Se. Herrlichkeit eröffnete das Spektakel vor einem sehr begrezten und ungläubig staunenden Publikum. Dennoch wurde über dieses Ereignis in der "Honnoverschen Allgemeinen" berichtet.
+In a breathtaking speed the boats went through the short distance sprint. Because of their technical advantage, the Kielers were far ahead. The Schaumschläger on canisters came in second, and the Surfboards with their much too short gear ratio came in third. The Berliners brought up the rear, with the chain constantly coming off the sprocket, causing a Berliner to cut off the tip of his thumb during the repair work.
 
-In einem atemberaubenden Tempo durchfuhren die Boote den Kurzstreckensprint. Wegen ihres technischen Vorsprungs hatten die Kieler die Nase weit vorn. Als zweiter lief der Schaumschläger auf Kanistern ein, dritter wurden die Surfbretter mit ihrer viel zu kurzen Getriebeüberstzung. Schlusslich wurden die Berliner. denen ständig die Kette vom Ritzel ablief, so dass sich bei den Reparaturbemühungen ein Berliner die Daumenkuppe abtrennte.
+The Berliners made good on their threat and hosted the next race in their waters. On the Landwehr Canal, boats from Aachen, Hanover, Kiel and Berlin swam -or didn't.
 
-Die Berliner machten ihre Drohung war und richteten das nächste Rennen in ihren Gewässern aus. Auf dem Landwehrkanal schwammen -oder auch nicht-die Boote aus Aachen, Hannover, Kiel und Berlin.
-
-(50 Jahre Orden der Heyligen Frawe Latte zu Hannover/ad Hammaburg/ Peter Kayer, Niels Lange)
+(50 Years Order of the Heylige Frawe Latte zu Hannover/ad Hammaburg/ Peter Kayer, Niels Lange)
