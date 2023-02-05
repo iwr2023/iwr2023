@@ -16,92 +16,150 @@ menu:
 *1. General*
 1.1. All members of a team registered with the race organisers are considered as participants by
 these rules and have to act accordingly.
+
 1.2. Acceptance of the rules
+
 1.2.1. By participating or intending to participate in a race conducted under these rules, each
 competitor and boat owner agrees to accept these rules.
 1.2.2. A support person by providing support agrees to accept these rules.
+
 1.2.3. Acceptance of the rules includes agreement
+
 a) to be governed by the rules;
+
 b) to accept the penalties imposed and other action taken under the rules, subject to the appeal and
 review procedures provided in them, as the final determination of any matter arising under the rules;
+
 c) with respect to any such determination, not to resort to any court of law or tribunal not provided
 for in the rules; and
+
 d) by each competitor and boat owner to ensure that their support persons are aware of the rules.
+
 1.2.4. The Captain in charge of each boat shall ensure that all participants in the team are aware of
 their responsibilities under these rules.
+
 1.3. Every participant must act according to the convention of fair play and sportsmanship.
+
 1.4. Participants are responsible for damages, injuries and loss of life on their own.
+
 1.5. Participants compromising nature or third party property will be disqualified from all races. Also
 all participants acting unfair or not adhering the convention of sportsmanship will be disqualified.
+
 1.6. It is prohibited to steal, borrow or rent anything of another participant, the IWR organisation or a
 third party member without written permission.
+
 1.7. The IWR is open for all waterbikes constructed and built by students. The crew have to be
 students as well.
+
 1.7.1. Alumni boats or boats operated by alumni are allowed to take part, but are excluded in the
 final ranking.
+
 1.8. Measurement
+
 1.8.1. Each boat will go through a measurement process at the beginning of the IWR and will be
 eligible to participate by receiving a measurement-sticker.
+
 1.8.2. Between the races, random checks are carried out. Each rule violation will result in a penalty,
 three penalties will result in disqualification of the boat.
+
 2. Official rules
 2.1. The English version is authoritative.
+
 2.2. Changes of the Official Rules or uncovered decisions:
+
 2.2.1. Decisions concerning changes of the rules are made by the Race Committee, consisting of four
 people.
+
 2.2.2. If the captains are highly dissatisfied about a decision made by the Race Committee the
 captains have the chance to discuss this decision at the next Captains Meeting.
+
 2.2.3. The organizers of the IWR 2023 have the final say in decisions concerning safety and timetable.
+
 2.3. Any changes of the Official Rules will be posted at the announcement board.
+
 3. Safety
 3.1. All participants are responsible for their behaviour on their own.
+
+
 3.2. Lifejackets have to be worn on board of any waterbike and at any time being on the water.
 3.2.1. This rule does not apply to boats moored to a pier.
+
 3.3. All participants must obey the assignments of the safety crew.
+
 3.4. All participants shall give all possible help to a person or boat in danger.
+
 3.5. Participants must not be under the influence of alcohol or other drugs when driving a boat.
+
 3.6. Each team must prove that their boat is buoyant even when capsized. Alternatively, buoyancy
 bodies must be installed to keep the boat buoyant in capsized condition.
+
 3.7. Electric bilge pumps are allowed. If a team decides to use an electric bilge pump, it must be on
 board in every race.
-3.9. Any participant contravening these assignments or rules can be disqualified.
+
+3.8. Any participant contravening these assignments or rules can be disqualified.
+
 4. Captains Meeting
 4.1. Only one person per boat is allowed to participate in the Captains Meeting.
+
 4.2. At the registration the teams will get one Captains-Meeting-Card for each boat. Every team
 member who wants to participate in the Captains Meeting has to bring such a card.
+
 4.3. The Captains Meeting will be called up on a regular basis after breakfast and lunch.
+
 4.4. There will be an announcement if the Captains Meeting must be called up additionally.
+
 5. Boats
 5.1. The captain of each boat is responsible for his boat concerning all intents and purposes.
+
 5.2. The boats must get their propelling force out of muscular strength. The main muscular strength
 has to be produced by the legs. Any kind of energy storage is prohibited.
+
 5.3. The boats must be equal or shorter than 6m in length (LOA ≤ 6m).
+
 5.4. The boats must be shorter in the width than in the length.
+
 5.5. A maximum draft of 1.2 metres will be guaranteed on the race courses by the Race Committee.
+
 5.6. Only two persons are allowed to generate the propelling force.
+
 5.7. The boats are only allowed to drive in approved water. The area of approved water will be
 announced by the organisers of the IWR. The fairway is to be omitted in all cases.
+
 5.8. Changes in the boat, which increase the performance of the boat in some disciplines:
+
 5.8.1. It must be possible to perform any change on the swimming boat in the water. A
 demonstration may be demanded by any Captain or the Race Committee.
+
 5.8.2. All parts (except tools) needed for these changes have to be carried on board during all races.
+
 5.8.3. Water Ballast
+
 a) All permanent or temporary water ballast tanks to be used in a race have to be approved by the
 Race Committee one week before the regatta.
+
 b) The usage of water ballast in tanks not approved by the Race Committee results in disqualification
 from all races in which the water ballast was used.
+
 5.8.4. If the boat is damaged it can be repaired ashore. The Race Committee has to be informed as
 fast as possible about necessary repairs. During these kinds of repairs, no changes improving the
 performance of the boat may be done.
+
 5.8.5. Major changes to the shape of the boat are not allowed.
+
 5.8.6. A boat breaking these rules will be disqualified from all races.
+
 *6. Races*
 6.1. The races start, when the Race Committee says so. In case of problems, these can be discussed in
 a Captains Meeting.
+
 6.2. The IWR generally consists of the following competitions:
+
 6.2.1. 100m Sprint
+
 6.2.2. 200m Sprint
+
 6.2.3. Slalom
+
 6.2.4. Forward-Stop-Backward (FSB)
 6.2.5. Acceleration (10m sprint)
 6.2.6. Bollard Pull
