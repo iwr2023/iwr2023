@@ -32,3 +32,7 @@ privacy:
     disable: true
   youtube:
     disable: true
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true

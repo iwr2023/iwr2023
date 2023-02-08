@@ -10,7 +10,7 @@ menu:
     identifier: about_inovation
     parent: about
     name: Inovation and Design
-    weight: 2
+    weight: 3
 ---
 
 Dies ist der erste Eintrag
