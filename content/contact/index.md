@@ -10,4 +10,4 @@ menu: main
 
 In case you have any questions you may contact us at:
 
-[Mail](mailto:test@test.test?subject=Contact%20Form "Mail Address")
+[IWR2023(at)strak-kiel.de](mailto:IWR2023@strak-kiel.de?subject=Contact "Mail Address")

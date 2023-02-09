@@ -12,5 +12,8 @@ menu:
 ---
 
 Location
-We are happy to welcome you this year to Iwr 2023 at the Lindenau Werft shipyard (Christianspries 30, 24159 Kiel) in Kiel.
+This year we are happy to welcome you to IWR 2023 at the Lindenau Werft shipyard (Christianspries 30, 24159 Kiel) in Kiel.
 https://goo.gl/maps/FzvT8TpWPJpLQS238
+
+{{< resp-image src="images/location/location_1.jpg" >}}
+{{< resp-image src="images/location/location_2.jpg" >}}
