@@ -1,7 +1,7 @@
 ---
 title: "Dies ist ein Testartikel"
 date: 2022-09-29T08:18:06+02:00
-draft: true
+draft: false
 featured_image: "/images/test_cover.webp"
 ---
 

@@ -8,4 +8,6 @@ type: page
 menu: main
 ---
 
-Hello, is it me you are looking?
+In case you have any questions you may contact us at:
+
+[Mail](mailto:test@test.test?subject=Contact%20Form "Mail Address")

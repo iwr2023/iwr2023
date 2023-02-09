@@ -1,5 +1,5 @@
 {{ $sponsorId := . }}
-{{ $sourceImage := resources.Get (printf "images/sponsors/%s.jpg" $sponsorId ) }}
+{{ $sourceImage := resources.Get (printf "images/sponsors/%s" $sponsorId ) }}
 {{ $imageSizes := slice "320" "640" "960" "1280" "1600" "1920" "2560" }}
 <picture class="sponsor-banner">
     <source type="image/webp"
