@@ -16,6 +16,7 @@ params:
   custom_css:
     - custom.scss
   countdownDate: May 05 2023 15:37:25
+  site_logo: "images/iwr_logo.JPG"
 privacy:
   disqus:
     disable: true

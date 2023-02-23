@@ -50,7 +50,7 @@
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
-        {{ if .IsHome }}{{$has_video}}
+        {{ if .IsHome }}
           <app-countdown class="fw1 f5 f3-l white-80 measure-wide-l center mt3" target-date="{{.Site.Params.countdownDate}}"></app-countdown>
           
         {{ else }}
