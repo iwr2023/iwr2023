@@ -9,7 +9,7 @@ menu:
   main:
     identifier: sponsors
     name: Sponsors
-    weight: 20
+    weight: 30
 ---
 
 Dies ist der erste Eintrag

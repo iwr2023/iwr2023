@@ -4,9 +4,6 @@ title: IWR 2023
 theme: ananke
 menu:
   main:
-    - identifier: sponsors
-      name: Sponsors
-      weight: 30
     - identifier: iwr2023
       name: IWR 2023
       weight: 20

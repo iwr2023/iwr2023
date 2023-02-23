@@ -1,5 +1,6 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-{{ if .IsHome }}
+{{ $has_video := fileExists "assets/video/banner_h264.mp4" }}
+{{ if and (.IsHome) $has_video}}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   <header class="cover bg-top" style="position:relative;">
     <style>
@@ -49,11 +50,16 @@
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
+        {{ if .IsHome }}{{$has_video}}
+          <app-countdown class="fw1 f5 f3-l white-80 measure-wide-l center mt3" target-date="{{.Site.Params.countdownDate}}"></app-countdown>
+          
+        {{ else }}
           {{ with .Params.description }}
             <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
               {{ . }}
             </h2>
           {{ end }}
+        {{ end }}
       </div>
     </div>
   </header>

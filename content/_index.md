@@ -6,8 +6,6 @@ cascade:
   featured_image: "/images/main_cover2.webp"
 ---
 
-{{< sponsor-banner>}}
-
 # Welcome to the IWR2023 website
 
 Sorry for the delay, but it's here now. Here we will provide you with the latest information about the iwr in addition to the mail.
