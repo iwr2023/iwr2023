@@ -34,3 +34,5 @@ markup:
   goldmark:
     renderer:
       hardWraps: true
+staticDir:
+  - static
