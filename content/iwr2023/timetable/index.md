@@ -11,4 +11,4 @@ menu:
 ---
 
 
-{{< resp-image src="images/regatta/iwr_timetable.JPG" >}}
+
